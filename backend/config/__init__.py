@@ -1,0 +1,1 @@
+# VoyageAI Django Core Package
